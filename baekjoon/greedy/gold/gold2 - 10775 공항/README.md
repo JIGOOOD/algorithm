@@ -1,3 +1,7 @@
+### 문제 링크
+
+https://www.acmicpc.net/problem/10775
+
 ### 알고리즘 분류
 
 - 그리디
