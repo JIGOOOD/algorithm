@@ -18,3 +18,4 @@ https://www.acmicpc.net/problem/3151
 ### 핵심 아이디어
 
 - 하나 정해두고 나머지 두개 탐색
+- 중복 처리 필수
