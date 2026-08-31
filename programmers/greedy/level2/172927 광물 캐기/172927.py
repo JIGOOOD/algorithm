@@ -24,7 +24,7 @@ def solution(picks, minerals):
     # 3. 곡괭이-광물 매핑하기
     for p in pl:
         if q:
-            cur = heappop(q);
+            cur = heappop(q)
             for i in range(3):
                 answer += (cost[p][i] * -cur[i])
     
